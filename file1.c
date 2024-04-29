@@ -1,4 +1,4 @@
-//This is our demo program
+//This is our easy demo program
 #include <stdio.h>
 int main() {
    // printf() displays the string inside quotation
